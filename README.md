@@ -1,2 +1,2 @@
-# IBM_CAD_PROJECT
+# IBM_CAD_Phase1
 Creating E-commerce application on IBM cloud foundry.
