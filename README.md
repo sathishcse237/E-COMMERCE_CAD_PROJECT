@@ -1,2 +1,2 @@
-# E-COMMERCE_CAD_Project
+# E-COMMERCE_CAD_PROJECT
 Creating E-commerce application on IBM cloud foundry.
