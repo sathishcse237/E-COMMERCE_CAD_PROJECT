@@ -6,6 +6,7 @@ A Simple E-Commerce Application is done using Python(Flask).
  We can shop the artisanal products by categories , personalized search. 
 
  <h3>DEPENDENCIES :</h3>
- 	1. Python3
+ 	
+  	1. Python3
 	2. Flask
 	3. Sqlite
