@@ -21,6 +21,6 @@ A Simple E-Commerce Application is done using Python(Flask).
  
 <h3>How to run </h3>
 
-	1. Download the folder in ypur local Directory  
+	1. Download the folder in your local Directory  
 	2. Run main.py
 	3. It will Create a Local Server and the Application is Implemented.
