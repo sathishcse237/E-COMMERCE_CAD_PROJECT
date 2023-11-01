@@ -10,3 +10,11 @@ A Simple E-Commerce Application is done using Python(Flask).
   	1. Python3
 	2. Flask
 	3. Sqlite
+
+<h3> Pipenv instructions </h3>
+
+	1. Install pipenv (python3 -m pip install --user pipenv)
+	2. Install dependencies (pipenv install --dev)
+	3. Setup database (pipenv run python database.py)
+	4. Run the server (pipenv run python main.py)
+	5. Enter localhost:5000 in the browser
