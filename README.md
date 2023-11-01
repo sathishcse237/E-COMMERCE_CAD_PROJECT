@@ -17,4 +17,10 @@ A Simple E-Commerce Application is done using Python(Flask).
 	2. Install dependencies (pipenv install --dev)
 	3. Setup database (pipenv run python database.py)
 	4. Run the server (pipenv run python main.py)
-	5. Enter localhost:5000 in the browser
+	5. Enter localhost:5000 in the browser.
+ 
+<h3>How to run </h3>
+
+	1. Download the folder  
+	2. Run main.py
+	3. Enter localhost:5000 in the browser
